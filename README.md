@@ -1,6 +1,6 @@
 # Credit Card Default Analysis
 
-**Module:** IT3081 – Statistical Modelling (Group Assignment)
+**Module:** Statistical Modelling (Group Assignment)
 **Tool:** R / RStudio
 **Dataset:** UCI *Default of Credit Card Clients* (Taiwan, 2005)
 
